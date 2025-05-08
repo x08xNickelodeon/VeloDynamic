@@ -1,5 +1,0 @@
-# Whether dynamic is enabled on this backend server
-command-enabled: true
-
-# Permission node required to run the command
-command-permission: velodynamic.command
