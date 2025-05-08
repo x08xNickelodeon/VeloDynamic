@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/velodynamic.iml" filepath="$PROJECT_DIR$/velodynamic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/velodynamic-backend/velodynamic-paper.iml" filepath="$PROJECT_DIR$/velodynamic-backend/velodynamic-paper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/velodynamic-proxy/velodynamic-proxy.iml" filepath="$PROJECT_DIR$/velodynamic-proxy/velodynamic-proxy.iml" />
+    </modules>
+  </component>
+</project>

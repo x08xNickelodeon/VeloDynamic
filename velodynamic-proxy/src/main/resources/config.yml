@@ -1,0 +1,7 @@
+servers:
+  lobby: "127.0.0.1:25565"
+
+#The fallback server that players are sent to when a server is removed from the proxy during run time
+fallback-server: "lobby"
+
+version: 1.0.0

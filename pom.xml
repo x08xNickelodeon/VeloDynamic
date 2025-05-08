@@ -1,0 +1,12 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.VeloDynamic</groupId>
+  <artifactId>velodynamic-parent</artifactId>
+  <version>1.0.0</version>
+  <packaging>pom</packaging>
+
+  <modules>
+    <module>velodynamic-proxy</module>
+    <module>velodynamic-paper</module>
+  </modules>
+</project>
